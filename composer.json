@@ -1,6 +1,7 @@
 {
     "name": "jasonhendry/triage-php",
     "description": "Triage Client for php",
+    "license":      "MIT",
     "authors": [
         {
             "name": "Jason Hendry",
@@ -9,5 +10,8 @@
     ],
     "require": {
 
+    },
+    "autoload": {
+        "psr-0": { "JasonHendry\\TriagePHP": "" }
     }
 }
