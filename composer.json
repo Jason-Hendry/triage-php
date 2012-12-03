@@ -1,0 +1,13 @@
+{
+    "name": "jasonhendry/triage-php",
+    "description": "Triage Client for php",
+    "authors": [
+        {
+            "name": "Jason Hendry",
+            "email": "jason@smsglobal.com"
+        }
+    ],
+    "require": {
+
+    }
+}
